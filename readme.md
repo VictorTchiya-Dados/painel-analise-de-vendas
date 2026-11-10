@@ -2,7 +2,9 @@
 
 ## Dashboard interativo
 
-Confira o painel desenvolvido no Power BI: 
+Confira o painel desenvolvido no Power BI:
+
+[📊 Acessar painel de vendas (arquivo PBIX)](./painel_de_vendas.pbix)
 
 
 
